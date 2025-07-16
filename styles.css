@@ -25,7 +25,12 @@ body {
     height: 5rem;
   }
   
-
+.menu-btn {
+    width: 50px;
+    color: #349173;
+    padding-right: 25px;
+    display: none;
+}
 span #logo-name {
     font-family: Bebas Neue;
     font-size: x-large;
