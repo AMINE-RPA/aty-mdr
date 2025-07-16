@@ -377,8 +377,8 @@ form button:hover {
    Responsive - Tablette
 ------------------------*/
 @media (max-width: 850px) {
-#menu-toggle{
-    display: content;
+.menu-btn{
+    display: block;
 }
   
   .programmes .cards {
